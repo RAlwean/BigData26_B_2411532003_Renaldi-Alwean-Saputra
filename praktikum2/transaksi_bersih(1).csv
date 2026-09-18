@@ -1,0 +1,491 @@
+transaction_id,customer_name,product_name,category,price,quantity,payment_method,transaction_date,shipping_city,rating
+TRX00490,"Baktiadi Napitupulu, S.H.",Aspernatur Basic,Rumah Tangga,120000.0,2,Transfer Bank,2026-09-14,Bau-Bau,1.0
+TRX00430,Faizah Kusumo,Voluptates Max,Olahraga,250000.0,3,Transfer Bank,2026-07-17,Cilegon,4.0
+TRX00083,"Drs. Sari Aryani, M.TI.",Deserunt Basic,Olahraga,75000.0,5,Kartu Kredit,2026-09-09,Tangerang Selatan,1.0
+TRX00121,"Ilsa Mahendra, S.T.",Quia Pro,Elektronik,500000.0,1,Transfer Bank,2026-08-16,Bengkulu,4.0
+TRX00148,Cahyanto Agustina,Officia Basic,Buku,15000.0,5,Transfer Bank,2026-08-14,Tidore Kepulauan,4.0
+TRX00386,Karja Melani,Corrupti Basic,Buku,500000.0,2,E-Wallet,2026-06-22,Cimahi,3.0
+TRX00201,"Safina Hartati, S.E.",Et Max,Olahraga,15000.0,4,Transfer Bank,2026-09-17,Kediri,1.0
+TRX00482,Niyaga Sirait,Velit Pro,Fashion,50000.0,3,E-Wallet,2026-07-19,Pekalongan,
+TRX00296,R. Kayun Puspasari,Placeat Max,Kesehatan,75000.0,3,COD,2026-08-30,Tomohon,1.0
+TRX00262,Kayun Rahimah,Ab,Kesehatan,500000.0,2,E-Wallet,2026-07-04,Pangkalpinang,
+TRX00434,Fitriani Palastri,Iste,Buku,75000.0,5,E-Wallet,2026-06-20,Sukabumi,
+TRX00475,Iriana Ardianto,Iusto,Elektronik,25000.0,3,Transfer Bank,2026-08-11,Kediri,5.0
+TRX00460,Dr. Vicky Iswahyudi,Deserunt Pro,Elektronik,15000.0,5,Transfer Bank,2026-07-23,Padang,5.0
+TRX00458,"Bagya Farida, S.E.I",Provident,Rumah Tangga,120000.0,1,Transfer Bank,2026-08-08,Sorong,
+TRX00356,Kajen Mustofa,Impedit Lite,Buku,150000.0,2,Kartu Kredit,2026-09-10,Kota Administrasi Jakarta Utara,
+TRX00467,Ayu Prastuti,Nulla Max,Buku,500000.0,3,Transfer Bank,2026-06-30,Pasuruan,4.0
+TRX00116,Septi Hassanah,Non Pro,Rumah Tangga,500000.0,4,E-Wallet,2026-09-13,Blitar,2.0
+TRX00404,Rini Uwais,Quibusdam Basic,Elektronik,25000.0,2,E-Wallet,2026-07-12,Blitar,2.0
+TRX00275,"Mursinin Riyanti, S.Pt",Error Lite,Fashion,250000.0,2,COD,2026-06-23,Sorong,2.0
+TRX00337,Tania Prasasta,Iste Basic,Elektronik,120000.0,5,COD,2026-08-29,Samarinda,3.0
+TRX00498,"dr. Lintang Situmorang, M.Pd",Vero Basic,Fashion,120000.0,2,Kartu Kredit,2026-08-11,Tidak Diketahui,5.0
+TRX00133,Mila Sihotang,Culpa Max,Elektronik,150000.0,5,Kartu Kredit,2026-09-17,Tidak Diketahui,4.0
+TRX00376,"Bagas Novitasari, S.H.",Consequuntur Basic,Olahraga,50000.0,4,E-Wallet,2026-07-26,Sungai Penuh,1.0
+TRX00260,Eman Andriani,Eveniet Lite,Olahraga,75000.0,4,E-Wallet,2026-09-02,Payakumbuh,1.0
+TRX00269,Yunita Lailasari,Necessitatibus Max,Olahraga,75000.0,4,COD,2026-07-20,Pekalongan,3.0
+TRX00279,Drs. Azalea Lazuardi,Nihil Lite,Buku,15000.0,4,E-Wallet,2026-08-10,Palopo,2.0
+TRX00497,Ajiman Mangunsong,Eos Max,Fashion,75000.0,1,COD,2026-07-02,Manado,5.0
+TRX00302,"Dr. Sabri Maryadi, S.H.",Aperiam Max,Olahraga,75000.0,4,COD,2026-09-11,Medan,5.0
+TRX00147,Puti Fathonah Kuswoyo,Nihil Max,Kesehatan,1200000.0,3,Transfer Bank,2026-08-03,Cirebon,3.0
+TRX00026,Warta Utama,Sint Pro,Rumah Tangga,250000.0,1,E-Wallet,2026-06-22,Singkawang,
+TRX00485,Puti Dinda Sihombing,Inventore Pro,Rumah Tangga,25000.0,4,E-Wallet,2026-07-12,Batu,2.0
+TRX00314,Wakiman Napitupulu,Veritatis Max,Olahraga,250000.0,5,E-Wallet,2026-08-26,Tual,4.0
+TRX00247,Gadang Wacana,Qui Lite,Rumah Tangga,25000.0,1,Transfer Bank,2026-09-15,Pangkalpinang,5.0
+TRX00347,"Tgk. Gandi Wacana, S.H.",Iusto Lite,Rumah Tangga,50000.0,3,E-Wallet,2026-08-23,Padang,3.0
+TRX00223,Indra Yuliarti,Alias,Buku,750000.0,5,Transfer Bank,2026-07-23,Kota Administrasi Jakarta Selatan,4.0
+TRX00419,Hamzah Wijaya,Sint Basic,Rumah Tangga,250000.0,1,Transfer Bank,2026-09-02,Pontianak,
+TRX00052,Mila Melani,Quibusdam Lite,Kesehatan,500000.0,1,Transfer Bank,2026-08-31,Tanjungpinang,2.0
+TRX00259,"Gabriella Nuraini, S.Pt",Nulla,Elektronik,15000.0,2,COD,2026-08-19,Sabang,5.0
+TRX00428,"Chandra Rahimah, M.M.",Necessitatibus Max,Olahraga,1200000.0,5,COD,2026-09-02,Tanjungbalai,4.0
+TRX00041,Lantar Hastuti,Ullam Max,Elektronik,50000.0,3,COD,2026-07-03,Surabaya,5.0
+TRX00090,R. Julia Rajasa,Totam Basic,Elektronik,1200000.0,4,Kartu Kredit,2026-08-25,Solok,3.0
+TRX00207,Tari Pradipta,Rem Pro,Elektronik,250000.0,4,Kartu Kredit,2026-09-07,Mojokerto,1.0
+TRX00240,Victoria Anggriawan,Molestias Basic,Olahraga,120000.0,3,Transfer Bank,2026-09-02,Bandung,4.0
+TRX00483,Hesti Prakasa,Laudantium Basic,Kesehatan,750000.0,4,Transfer Bank,2026-07-03,Ambon,3.0
+TRX00239,Luthfi Wasita,Quas,Olahraga,120000.0,1,E-Wallet,2026-08-19,Sungai Penuh,3.0
+TRX00311,Gilda Prasetya,Doloribus,Fashion,1200000.0,3,E-Wallet,2026-06-23,Manado,5.0
+TRX00004,"Lutfan Padmasari, S.Gz",Repellat Lite,Kesehatan,500000.0,2,COD,2026-08-11,Jayapura,1.0
+TRX00180,Irma Marbun,Vitae Basic,Fashion,15000.0,2,E-Wallet,2026-08-29,Tidak Diketahui,3.0
+TRX00249,"Kanda Prasetyo, S.E.I",Libero Max,Kesehatan,500000.0,5,COD,2026-08-18,Pangkalpinang,4.0
+TRX00293,Silvia Waluyo,Sed,Kesehatan,15000.0,3,COD,2026-08-28,Palopo,
+TRX00066,Hasna Oktaviani,Delectus Basic,Rumah Tangga,120000.0,2,Kartu Kredit,2026-06-23,Binjai,1.0
+TRX00139,"Hendra Prayoga, S.Sos",Animi Pro,Olahraga,150000.0,2,E-Wallet,2026-07-23,Batam,3.0
+TRX00437,Fitria Uyainah,Qui Max,Olahraga,750000.0,2,COD,2026-09-04,Bima,
+TRX00304,Padma Sudiati,Adipisci Basic,Buku,500000.0,3,Transfer Bank,2026-06-28,Salatiga,
+TRX00114,Jamil Setiawan,Repellat Lite,Kesehatan,50000.0,1,Transfer Bank,2026-09-15,Tangerang Selatan,1.0
+TRX00469,"Harjasa Megantara, M.Farm",Explicabo Lite,Olahraga,250000.0,3,COD,2026-08-07,Palembang,1.0
+TRX00169,"Raina Marpaung, S.H.",Sit Lite,Kesehatan,5000000.0,4,E-Wallet,2026-07-26,Parepare,
+TRX00102,Usyi Saefullah,Architecto Basic,Fashion,50000.0,2,COD,2026-07-15,Surabaya,3.0
+TRX00373,Asirwada Rajasa,Recusandae Pro,Buku,75000.0,2,Transfer Bank,2026-09-08,Prabumulih,3.0
+TRX00214,"Damu Sihombing, S.Psi",Labore Pro,Buku,250000.0,4,E-Wallet,2026-07-28,Malang,2.0
+TRX00406,"Nasim Purnawati, S.E.I",Ipsa Pro,Olahraga,25000.0,2,Kartu Kredit,2026-06-21,Tanjungbalai,3.0
+TRX00338,"Dt. Erik Kurniawan, M.Kom.",Occaecati Lite,Kesehatan,15000.0,5,COD,2026-08-05,Banda Aceh,4.0
+TRX00452,"Alambana Nainggolan, S.H.",Veritatis Pro,Elektronik,25000.0,4,Transfer Bank,2026-08-25,Bontang,5.0
+TRX00194,Ihsan Kuswoyo,At Lite,Rumah Tangga,150000.0,3,Kartu Kredit,2026-08-16,Padang,
+TRX00061,"Sutan Taufik Jailani, S.Pt",Fuga,Fashion,15000.0,4,COD,2026-07-14,Kota Administrasi Jakarta Timur,2.0
+TRX00417,Rafid Yolanda,Illo Max,Buku,250000.0,1,COD,2026-09-09,Kota Administrasi Jakarta Barat,5.0
+TRX00315,"Bala Halimah, S.Psi",Minima Pro,Olahraga,1200000.0,1,Transfer Bank,2026-07-13,Medan,2.0
+TRX00119,Karman Zulaika,Corrupti Pro,Olahraga,1200000.0,4,Kartu Kredit,2026-09-12,Bau-Bau,4.0
+TRX00370,Agnes Mandasari,Modi Lite,Olahraga,750000.0,5,E-Wallet,2026-07-29,Prabumulih,
+TRX00426,"Gara Salahudin, S.E.I",Voluptatum Basic,Elektronik,120000.0,3,Kartu Kredit,2026-07-02,Magelang,1.0
+TRX00110,Jabal Sitorus,Odio Max,Buku,250000.0,4,COD,2026-07-28,Kota Administrasi Jakarta Barat,4.0
+TRX00348,"Drs. Anastasia Simbolon, M.TI.",Dignissimos Lite,Olahraga,250000.0,1,Kartu Kredit,2026-09-14,Kota Administrasi Jakarta Barat,
+TRX00450,"Shania Sitompul, M.Ak",Unde Lite,Kesehatan,120000.0,1,COD,2026-07-16,Medan,4.0
+TRX00362,Gasti Sihombing,Aspernatur Lite,Buku,1200000.0,2,Kartu Kredit,2026-08-28,Purwokerto,4.0
+TRX00091,R. Amalia Laksmiwati,Assumenda Pro,Kesehatan,500000.0,1,COD,2026-08-02,Tanjungbalai,
+TRX00264,Cemeti Uyainah,Magni,Elektronik,1200000.0,1,E-Wallet,2026-08-16,Banda Aceh,
+TRX00307,"Cut Jessica Pangestu, S.E.",Minus Pro,Fashion,120000.0,4,Kartu Kredit,2026-06-27,Bandung,1.0
+TRX00031,T. Margana Iswahyudi,Voluptatem Max,Rumah Tangga,500000.0,5,E-Wallet,2026-09-04,Cimahi,4.0
+TRX00023,"Hj. Wirda Purwanti, S.Sos",Nam Lite,Fashion,500000.0,2,Kartu Kredit,2026-07-25,Pariaman,1.0
+TRX00306,Warsita Hassanah,Rerum Basic,Kesehatan,25000.0,2,Transfer Bank,2026-09-01,Kota Administrasi Jakarta Pusat,
+TRX00032,Vera Prasetyo,Quibusdam Lite,Olahraga,15000.0,2,Kartu Kredit,2026-08-07,Subulussalam,1.0
+TRX00238,"dr. Nasab Usamah, S.E.",Explicabo Pro,Rumah Tangga,750000.0,1,COD,2026-09-04,Palu,1.0
+TRX00327,Asmianto Sihombing,Dicta,Olahraga,250000.0,1,Transfer Bank,2026-09-16,Palembang,3.0
+TRX00053,T. Virman Purwanti,Eligendi Lite,Olahraga,150000.0,1,E-Wallet,2026-09-03,Padangpanjang,1.0
+TRX00491,Rusman Permata,Laboriosam,Buku,75000.0,4,COD,2026-08-23,Depok,3.0
+TRX00165,"R.M. Cager Budiman, S.Gz",Quod Max,Olahraga,250000.0,4,E-Wallet,2026-07-02,Bekasi,1.0
+TRX00217,Tiara Hardiansyah,Quidem Pro,Kesehatan,1200000.0,4,Transfer Bank,2026-08-09,Samarinda,2.0
+TRX00163,"Tgk. Margana Napitupulu, S.Sos",Necessitatibus Basic,Rumah Tangga,250000.0,1,E-Wallet,2026-07-08,Palangkaraya,2.0
+TRX00366,Okta Kusmawati,Fugiat,Kesehatan,500000.0,3,E-Wallet,2026-08-29,Padang Sidempuan,5.0
+TRX00057,"Cinta Widodo, M.Kom.",Dolorem Basic,Olahraga,15000.0,1,COD,2026-09-17,Cilegon,
+TRX00471,"Dt. Bahuraksa Najmudin, M.Ak",Tenetur Pro,Buku,75000.0,4,E-Wallet,2026-08-20,Parepare,1.0
+TRX00003,Bakijan Puspasari,Nisi,Elektronik,75000.0,5,Kartu Kredit,2026-06-25,Jayapura,5.0
+TRX00059,Najam Utama,Ad Lite,Buku,75000.0,2,Kartu Kredit,2026-07-20,Palembang,3.0
+TRX00372,"dr. Janet Sudiati, S.H.",Itaque Basic,Rumah Tangga,1200000.0,2,Kartu Kredit,2026-07-08,Balikpapan,
+TRX00241,Puji Pratama,Dolorem,Buku,75000.0,4,COD,2026-08-23,Pematangsiantar,5.0
+TRX00268,Jasmin Anggraini,Explicabo,Kesehatan,25000.0,3,Kartu Kredit,2026-08-08,Kupang,4.0
+TRX00500,Prayoga Yuliarti,Ipsa Basic,Kesehatan,750000.0,2,Kartu Kredit,2026-08-17,Sabang,
+TRX00075,Mustofa Sihombing,Aperiam Lite,Kesehatan,120000.0,5,Kartu Kredit,2026-07-31,Kota Administrasi Jakarta Timur,2.0
+TRX00331,"Nilam Saefullah, S.E.",Enim Pro,Olahraga,250000.0,2,COD,2026-07-02,Sawahlunto,
+TRX00477,"Cakrabirawa Saputra, S.Sos",Fugit Pro,Rumah Tangga,250000.0,3,Kartu Kredit,2026-06-25,Manado,
+TRX00422,"Sutan Artawan Purwanti, S.T.",Doloribus,Elektronik,500000.0,5,Transfer Bank,2026-08-08,Probolinggo,4.0
+TRX00278,Imam Firmansyah,Ipsum Basic,Elektronik,1200000.0,2,Transfer Bank,2026-06-21,Payakumbuh,5.0
+TRX00081,Drs. Zulaikha Mangunsong,Unde Max,Olahraga,500000.0,1,COD,2026-09-08,Tual,4.0
+TRX00243,Manah Uwais,Quasi Basic,Elektronik,250000.0,2,COD,2026-07-20,Gorontalo,2.0
+TRX00027,Eka Usada,Explicabo Max,Elektronik,500000.0,4,Transfer Bank,2026-09-13,Parepare,2.0
+TRX00203,Emas Usada,Quod Max,Kesehatan,250000.0,4,Transfer Bank,2026-08-20,Kupang,
+TRX00213,"Hj. Clara Usamah, S.Pd",Perferendis Pro,Fashion,750000.0,1,E-Wallet,2026-06-28,Tomohon,4.0
+TRX00282,Irsad Ardianto,Accusamus Pro,Olahraga,15000.0,2,COD,2026-08-20,Bekasi,
+TRX00354,Carla Samosir,Laborum Max,Elektronik,250000.0,1,COD,2026-08-17,Banjarmasin,
+TRX00365,Salsabila Thamrin,Deserunt Lite,Olahraga,50000.0,1,Kartu Kredit,2026-08-19,Pematangsiantar,3.0
+TRX00146,Dr. Gamani Marpaung,Nobis Max,Kesehatan,500000.0,3,COD,2026-09-07,Kota Administrasi Jakarta Selatan,
+TRX00421,Murti Putra,Nobis Lite,Fashion,15000.0,4,COD,2026-08-19,Pasuruan,
+TRX00109,"Caraka Hutagalung, S.Kom",Provident Pro,Buku,500000.0,4,COD,2026-09-09,Purwokerto,1.0
+TRX00051,Ilyas Simbolon,Similique Basic,Elektronik,1200000.0,3,COD,2026-09-15,Tanjungbalai,3.0
+TRX00436,Pangeran Dabukke,Alias Basic,Kesehatan,500000.0,4,Transfer Bank,2026-08-28,Kupang,5.0
+TRX00301,Cemeti Siregar,Magni Pro,Rumah Tangga,15000.0,2,COD,2026-08-11,Padang,
+TRX00015,Hj. Yuni Hassanah,Id Max,Kesehatan,15000.0,2,COD,2026-08-23,Banda Aceh,2.0
+TRX00465,Aurora Suartini,Libero,Fashion,500000.0,4,E-Wallet,2026-06-28,Sibolga,
+TRX00391,Cut Maida Habibi,Sit Lite,Rumah Tangga,120000.0,3,E-Wallet,2026-07-11,Banjar,
+TRX00115,Dr. Lasmono Pratama,Consectetur,Buku,50000.0,2,E-Wallet,2026-07-14,Meulaboh,2.0
+TRX00244,"Cengkal Wijaya, M.TI.",Cupiditate Max,Elektronik,15000.0,2,COD,2026-08-24,Subulussalam,4.0
+TRX00060,"Anita Winarno, S.Psi",Quas Pro,Olahraga,75000.0,1,COD,2026-08-15,Binjai,5.0
+TRX00174,Irwan Wibisono,Unde Lite,Fashion,1200000.0,3,Kartu Kredit,2026-07-23,Cirebon,
+TRX00099,Keisha Sihotang,Cumque,Kesehatan,50000.0,4,COD,2026-09-03,Madiun,4.0
+TRX00160,Cinthia Widodo,Ut Pro,Buku,75000.0,4,E-Wallet,2026-08-08,Sungai Penuh,4.0
+TRX00042,Eva Pudjiastuti,Quo,Rumah Tangga,2500000.0,1,E-Wallet,2026-07-01,Tebingtinggi,1.0
+TRX00271,Tania Salahudin,Debitis,Rumah Tangga,1200000.0,2,COD,2026-08-11,Banjar,
+TRX00205,"R.A. Endah Simbolon, S.Kom",Molestias Pro,Elektronik,75000.0,5,E-Wallet,2026-07-19,Metro,4.0
+TRX00080,Cut Kania Damanik,In Basic,Elektronik,15000.0,1,Transfer Bank,2026-07-17,Bau-Bau,2.0
+TRX00029,Baktiono Siregar,Fuga Pro,Buku,25000.0,5,E-Wallet,2026-08-02,Pematangsiantar,3.0
+TRX00345,Mulyono Pertiwi,Officiis Max,Fashion,120000.0,3,Transfer Bank,2026-08-26,Banda Aceh,2.0
+TRX00364,Unjani Kurniawan,Quasi Max,Rumah Tangga,25000.0,3,Kartu Kredit,2026-07-10,Padangpanjang,4.0
+TRX00257,"drg. Ganjaran Mangunsong, S.Kom",Necessitatibus,Fashion,500000.0,2,Transfer Bank,2026-08-30,Singkawang,
+TRX00466,Anom Wulandari,Exercitationem Pro,Elektronik,15000.0,1,Transfer Bank,2026-07-12,Tidak Diketahui,4.0
+TRX00058,"Mala Mulyani, S.Sos",Labore,Olahraga,25000.0,5,Kartu Kredit,2026-07-27,Lubuklinggau,3.0
+TRX00427,"Rahman Lazuardi, M.Pd",Nisi Lite,Olahraga,1200000.0,5,E-Wallet,2026-08-27,Tangerang,2.0
+TRX00063,Clara Setiawan,Aspernatur Pro,Rumah Tangga,15000.0,3,Kartu Kredit,2026-08-30,Pagaralam,2.0
+TRX00388,Mahdi Prastuti,Iste Lite,Rumah Tangga,15000.0,3,COD,2026-07-02,Manado,1.0
+TRX00112,Yessi Purnawati,Eligendi Lite,Fashion,15000.0,1,Kartu Kredit,2026-09-07,Meulaboh,3.0
+TRX00085,"Gatra Jailani, S.Sos",Odio Max,Buku,500000.0,3,Transfer Bank,2026-08-09,Sorong,5.0
+TRX00237,Iriana Rajata,Sunt Pro,Buku,1200000.0,5,Transfer Bank,2026-08-22,Kota Administrasi Jakarta Barat,5.0
+TRX00272,Tari Puspasari,Necessitatibus,Fashion,120000.0,4,Kartu Kredit,2026-08-08,Padang,3.0
+TRX00343,Jaka Lailasari,Reprehenderit Lite,Elektronik,1200000.0,1,Kartu Kredit,2026-08-04,Binjai,3.0
+TRX00228,"Timbul Prakasa, M.TI.",Earum Pro,Olahraga,50000.0,1,E-Wallet,2026-07-14,Tebingtinggi,3.0
+TRX00130,"T. Balangga Oktaviani, M.Kom.",Similique Pro,Elektronik,150000.0,5,Transfer Bank,2026-07-06,Pasuruan,4.0
+TRX00166,Ir. Kartika Mayasari,Dolores,Kesehatan,150000.0,3,Kartu Kredit,2026-07-03,Cilegon,4.0
+TRX00097,"Karimah Pradipta, M.Kom.",Placeat Max,Buku,50000.0,5,COD,2026-07-25,Ambon,5.0
+TRX00489,"Ayu Pratama, S.Gz",Natus Lite,Elektronik,1200000.0,3,COD,2026-07-30,Pekalongan,1.0
+TRX00297,"Gina Saragih, M.Ak",Aspernatur Pro,Elektronik,500000.0,1,Kartu Kredit,2026-08-19,Tarakan,3.0
+TRX00480,"T. Putu Prakasa, S.E.I",Vero Max,Buku,25000.0,5,Transfer Bank,2026-06-26,Ternate,2.0
+TRX00142,"R.A. Cici Kusmawati, M.M.",Molestiae Lite,Elektronik,15000.0,1,E-Wallet,2026-08-30,Payakumbuh,1.0
+TRX00464,"Sabrina Anggriawan, S.T.",Cupiditate Basic,Olahraga,250000.0,2,Transfer Bank,2026-07-11,Tebingtinggi,
+TRX00188,"Alika Sihombing, M.TI.",Explicabo,Buku,15000.0,4,Kartu Kredit,2026-07-17,Tegal,4.0
+TRX00369,"Michelle Suwarno, S.I.Kom",Illum Max,Elektronik,120000.0,4,COD,2026-07-21,Sukabumi,5.0
+TRX00221,"R.A. Tira Pradipta, M.Kom.",Doloremque Lite,Kesehatan,500000.0,1,COD,2026-06-29,Pasuruan,2.0
+TRX00229,Dirja Simbolon,Sed Max,Olahraga,15000.0,1,E-Wallet,2026-08-05,Kendari,
+TRX00323,"R.M. Elon Lestari, S.IP",Ipsum Max,Fashion,500000.0,1,COD,2026-07-31,Binjai,3.0
+TRX00396,Adiarja Siregar,Nam Lite,Kesehatan,500000.0,1,Kartu Kredit,2026-08-09,Magelang,1.0
+TRX00360,Gawati Nainggolan,Quam Lite,Olahraga,120000.0,3,COD,2026-08-08,Balikpapan,2.0
+TRX00082,Tantri Lailasari,Distinctio Max,Fashion,150000.0,1,COD,2026-07-15,Banjar,2.0
+TRX00355,Drs. Hasna Hutasoit,Omnis Max,Rumah Tangga,500000.0,3,E-Wallet,2026-08-12,Palembang,4.0
+TRX00322,Hilda Mangunsong,Alias,Olahraga,50000.0,1,Kartu Kredit,2026-07-14,Magelang,3.0
+TRX00435,Sari Susanti,Ullam Lite,Fashion,75000.0,2,Transfer Bank,2026-08-21,Bau-Bau,
+TRX00189,Pangeran Firmansyah,Est Pro,Elektronik,500000.0,5,Kartu Kredit,2026-07-03,Padangpanjang,4.0
+TRX00335,Kardi Utama,Amet Max,Fashion,25000.0,1,E-Wallet,2026-07-04,Samarinda,3.0
+TRX00054,Hartaka Handayani,Ipsam Max,Kesehatan,75000.0,1,Kartu Kredit,2026-06-26,Pagaralam,4.0
+TRX00172,KH. Muni Firgantoro,Vel Max,Fashion,120000.0,4,COD,2026-09-03,Meulaboh,
+TRX00385,Dr. Cakrabirawa Permata,Eius,Elektronik,1200000.0,1,Transfer Bank,2026-07-26,Bontang,3.0
+TRX00140,"Dt. Edi Nababan, S.Pt",Sequi Lite,Rumah Tangga,250000.0,5,Kartu Kredit,2026-07-20,Magelang,1.0
+TRX00274,"Ir. Asmuni Mardhiyah, M.Pd",Similique,Elektronik,120000.0,4,E-Wallet,2026-07-23,Sorong,1.0
+TRX00285,"R. Emil Utami, M.Pd",Voluptatum Lite,Rumah Tangga,750000.0,1,E-Wallet,2026-08-03,Banjarbaru,5.0
+TRX00067,Eluh Hardiansyah,Ducimus Max,Kesehatan,500000.0,1,Transfer Bank,2026-07-08,Sorong,3.0
+TRX00439,Gading Mansur,Quod Lite,Rumah Tangga,120000.0,5,Transfer Bank,2026-09-10,Tidak Diketahui,1.0
+TRX00295,Cut Irma Megantara,Rem Max,Kesehatan,50000.0,5,COD,2026-07-03,Malang,2.0
+TRX00233,Adinata Wacana,Nostrum,Elektronik,5000000.0,1,Kartu Kredit,2026-08-21,Pangkalpinang,4.0
+TRX00100,"Tgk. Salman Widodo, S.IP",Eius Basic,Buku,1200000.0,2,Kartu Kredit,2026-08-23,Kota Administrasi Jakarta Pusat,2.0
+TRX00284,R.A. Mila Nashiruddin,Architecto Max,Buku,1200000.0,5,E-Wallet,2026-07-22,Tegal,
+TRX00149,KH. Mulya Maheswara,Impedit Pro,Olahraga,75000.0,3,COD,2026-07-16,Medan,
+TRX00016,Kamila Narpati,Similique,Olahraga,15000.0,4,Kartu Kredit,2026-06-30,Jambi,4.0
+TRX00164,Indra Latupono,Consectetur,Kesehatan,25000.0,5,E-Wallet,2026-07-26,Palu,
+TRX00290,"dr. Jati Winarno, M.M.",Fugit Basic,Fashion,150000.0,1,E-Wallet,2026-08-29,Kupang,1.0
+TRX00047,Dt. Teddy Farida,Ducimus,Rumah Tangga,75000.0,4,Kartu Kredit,2026-08-13,Cirebon,4.0
+TRX00087,Dr. Bakiman Wahyuni,Qui Pro,Olahraga,1200000.0,5,Kartu Kredit,2026-06-25,Kota Administrasi Jakarta Pusat,5.0
+TRX00038,Rafid Wijayanti,Cumque Basic,Fashion,75000.0,2,Kartu Kredit,2026-09-09,Pariaman,3.0
+TRX00423,Hilda Halim,Dolores Basic,Buku,2500000.0,3,Kartu Kredit,2026-07-22,Bekasi,3.0
+TRX00371,Wani Maulana,Nostrum Basic,Rumah Tangga,500000.0,5,Transfer Bank,2026-08-10,Bekasi,4.0
+TRX00425,Gilda Permadi,Ab Max,Rumah Tangga,2500000.0,2,Kartu Kredit,2026-08-05,Bogor,4.0
+TRX00446,Ismail Anggriawan,Vel Pro,Buku,150000.0,1,Kartu Kredit,2026-09-14,Tebingtinggi,
+TRX00173,Dr. Pia Utami,Inventore Max,Buku,15000.0,1,COD,2026-08-17,Sawahlunto,2.0
+TRX00074,Asman Hutasoit,Vel Basic,Rumah Tangga,50000.0,5,Transfer Bank,2026-09-03,Serang,3.0
+TRX00281,"dr. Kuncara Jailani, S.Pt",Temporibus,Kesehatan,5000000.0,5,Transfer Bank,2026-08-01,Sorong,3.0
+TRX00105,Sutan Najib Hutapea,Architecto,Fashion,25000.0,3,COD,2026-09-12,Palopo,1.0
+TRX00358,"Qori Prasetya, S.Sos",Eligendi Max,Rumah Tangga,15000.0,4,COD,2026-08-08,Palu,2.0
+TRX00254,Zulaikha Winarno,Aspernatur,Fashion,75000.0,4,Kartu Kredit,2026-06-27,Bogor,5.0
+TRX00017,"T. Cager Prayoga, S.Sos",Mollitia Pro,Fashion,25000.0,2,Transfer Bank,2026-09-10,Bau-Bau,1.0
+TRX00447,Harja Sihombing,Ab,Kesehatan,2500000.0,2,COD,2026-07-29,Salatiga,
+TRX00092,Mursita Lestari,Illum Basic,Elektronik,15000.0,4,Kartu Kredit,2026-08-22,Pangkalpinang,4.0
+TRX00089,"drg. Citra Kuswandari, S.Pd",Aperiam Basic,Rumah Tangga,250000.0,1,COD,2026-08-14,Batu,5.0
+TRX00387,drg. Ridwan Hastuti,Similique Lite,Olahraga,250000.0,5,COD,2026-07-28,Sungai Penuh,2.0
+TRX00141,Cut Hani Simanjuntak,Harum Pro,Rumah Tangga,750000.0,5,Kartu Kredit,2026-07-16,Bandar Lampung,2.0
+TRX00195,"T. Adikara Hakim, M.Pd",Laudantium Pro,Kesehatan,50000.0,4,Kartu Kredit,2026-08-12,Sibolga,5.0
+TRX00206,"Hj. Talia Widiastuti, M.Pd",Optio Pro,Rumah Tangga,50000.0,3,E-Wallet,2026-08-01,Bandar Lampung,1.0
+TRX00103,Siska Maryadi,Expedita Pro,Rumah Tangga,120000.0,2,Transfer Bank,2026-09-15,Pekanbaru,1.0
+TRX00265,Cut Sabrina Sitompul,Consequatur Lite,Kesehatan,150000.0,4,COD,2026-08-04,Tomohon,1.0
+TRX00175,Ade Safitri,Porro,Elektronik,120000.0,2,E-Wallet,2026-07-31,Tual,4.0
+TRX00171,Dewi Maryadi,Expedita Max,Kesehatan,750000.0,3,Kartu Kredit,2026-09-15,Banjar,
+TRX00389,Ella Firmansyah,Fugiat Lite,Rumah Tangga,50000.0,2,Kartu Kredit,2026-08-15,Malang,1.0
+TRX00158,Hj. Farhunnisa Anggriawan,Itaque Max,Fashion,250000.0,1,Kartu Kredit,2026-07-26,Denpasar,
+TRX00071,"Reza Yulianti, S.Farm",Unde,Fashion,120000.0,4,E-Wallet,2026-08-03,Pekalongan,3.0
+TRX00134,Cengkal Yolanda,Qui Lite,Fashion,15000.0,1,Transfer Bank,2026-08-26,Lhokseumawe,1.0
+TRX00455,Kuncara Kusumo,Est Lite,Buku,1200000.0,4,Kartu Kredit,2026-09-05,Sungai Penuh,2.0
+TRX00379,Rudi Saragih,Quam,Kesehatan,120000.0,2,E-Wallet,2026-07-05,Tanjungbalai,4.0
+TRX00363,Luluh Tampubolon,Nulla Pro,Rumah Tangga,50000.0,3,COD,2026-08-18,Palembang,5.0
+TRX00246,Lili Utami,Voluptatem Lite,Olahraga,120000.0,5,Kartu Kredit,2026-08-19,Bima,
+TRX00470,Ajiono Siregar,Distinctio Pro,Kesehatan,5000000.0,3,Transfer Bank,2026-08-02,Bandung,5.0
+TRX00432,Arsipatra Anggriawan,Omnis Max,Rumah Tangga,5000000.0,4,E-Wallet,2026-09-17,Bau-Bau,
+TRX00353,Dwi Maheswara,Quasi Pro,Kesehatan,120000.0,1,Transfer Bank,2026-06-21,Banjar,3.0
+TRX00245,Dono Saefullah,Modi Basic,Kesehatan,25000.0,5,E-Wallet,2026-07-25,Batu,2.0
+TRX00019,"Drs. Indah Agustina, S.I.Kom",Vero Max,Olahraga,250000.0,4,Kartu Kredit,2026-09-07,Bukittinggi,4.0
+TRX00178,"Cager Hutasoit, S.Psi",Quaerat,Rumah Tangga,1200000.0,4,Kartu Kredit,2026-06-27,Sungai Penuh,2.0
+TRX00410,"Ir. Teguh Utami, S.E.I",Harum Pro,Rumah Tangga,500000.0,3,Transfer Bank,2026-07-05,Tangerang,
+TRX00021,"Ir. Elvina Saptono, S.Pd",Ab Pro,Fashion,250000.0,2,COD,2026-07-03,Singkawang,
+TRX00056,"Mitra Utama, S.E.I",Explicabo Pro,Buku,75000.0,1,E-Wallet,2026-09-07,Jayapura,4.0
+TRX00320,"Ghani Megantara, S.Psi",Est Max,Elektronik,250000.0,5,E-Wallet,2026-08-25,Tasikmalaya,5.0
+TRX00462,Devi Mansur,Nobis Lite,Elektronik,75000.0,4,Transfer Bank,2026-09-09,Solok,1.0
+TRX00368,Hamzah Setiawan,Soluta Basic,Elektronik,75000.0,2,COD,2026-08-13,Palopo,4.0
+TRX00035,Mustofa Suartini,Laborum Basic,Olahraga,750000.0,5,E-Wallet,2026-07-30,Mataram,1.0
+TRX00182,Dodo Mardhiyah,Perferendis Max,Kesehatan,12000000.0,4,COD,2026-07-08,Singkawang,2.0
+TRX00185,"Dr. Asirwada Usada, S.I.Kom",Odio Basic,Olahraga,15000.0,5,E-Wallet,2026-08-08,Kota Administrasi Jakarta Pusat,5.0
+TRX00151,Candra Suryono,Repellendus Lite,Rumah Tangga,50000.0,1,Transfer Bank,2026-07-06,Mojokerto,4.0
+TRX00208,Ir. Citra Pratiwi,Dolores Max,Kesehatan,75000.0,1,Kartu Kredit,2026-07-03,Binjai,2.0
+TRX00352,"Hj. Raina Santoso, M.Ak",Fugit,Kesehatan,12000000.0,1,E-Wallet,2026-08-15,Solok,2.0
+TRX00095,Fathonah Pranowo,Autem Max,Buku,2500000.0,3,Transfer Bank,2026-08-11,Tidore Kepulauan,4.0
+TRX00377,Drs. Candra Nainggolan,Nihil Lite,Olahraga,1200000.0,5,COD,2026-08-02,Yogyakarta,3.0
+TRX00303,"Puti Kasiyah Usamah, M.M.",Beatae Lite,Rumah Tangga,250000.0,1,COD,2026-07-04,Malang,3.0
+TRX00098,Sabrina Hartati,Necessitatibus Pro,Olahraga,75000.0,4,Kartu Kredit,2026-07-17,Padangpanjang,5.0
+TRX00236,"Najam Yolanda, M.Farm",Eum Pro,Fashion,50000.0,4,Transfer Bank,2026-08-20,Palu,1.0
+TRX00405,"Puti Shania Mulyani, S.Pt",Quis Lite,Fashion,75000.0,3,Kartu Kredit,2026-09-04,Bandar Lampung,3.0
+TRX00442,Hj. Cindy Megantara,Voluptas Max,Buku,25000.0,5,Kartu Kredit,2026-07-10,Palembang,2.0
+TRX00155,"Ir. Febi Hutagalung, S.I.Kom",Quam Lite,Olahraga,750000.0,3,E-Wallet,2026-09-05,Sibolga,
+TRX00123,"Drs. Abyasa Anggriawan, M.Pd",Incidunt Lite,Buku,750000.0,1,COD,2026-09-17,Lubuklinggau,3.0
+TRX00339,Bakidin Prasetyo,Sit Pro,Elektronik,50000.0,1,E-Wallet,2026-07-06,Lhokseumawe,5.0
+TRX00079,KH. Adhiarja Iswahyudi,Fuga,Rumah Tangga,1200000.0,2,E-Wallet,2026-09-01,Padang,1.0
+TRX00062,"R.M. Reza Anggraini, S.T.",Necessitatibus Basic,Kesehatan,120000.0,4,Transfer Bank,2026-07-03,Tanjungpinang,3.0
+TRX00476,Drajat Haryanti,Sequi Max,Rumah Tangga,500000.0,1,Kartu Kredit,2026-06-24,Tegal,4.0
+TRX00126,"Marsudi Andriani, S.Pt",Facere Max,Elektronik,15000.0,3,Transfer Bank,2026-07-10,Medan,
+TRX00319,"Bahuraksa Hartati, S.Psi",Iste Lite,Olahraga,15000.0,2,Kartu Kredit,2026-09-02,Binjai,3.0
+TRX00317,Jarwa Nababan,Amet Lite,Rumah Tangga,1200000.0,1,E-Wallet,2026-07-04,Batu,5.0
+TRX00496,"Galar Hakim, S.Farm",Sint Max,Fashion,250000.0,1,COD,2026-08-22,Cilegon,5.0
+TRX00431,Maimunah Hastuti,Reiciendis Pro,Kesehatan,50000.0,2,Kartu Kredit,2026-07-22,Sabang,
+TRX00451,Sakura Yuliarti,Deserunt Basic,Fashion,500000.0,2,Transfer Bank,2026-07-16,Pontianak,4.0
+TRX00418,"Balapati Firgantoro, S.Psi",Eos Max,Rumah Tangga,1200000.0,3,Kartu Kredit,2026-08-28,Tidore Kepulauan,1.0
+TRX00025,Ganep Rahimah,Asperiores Pro,Fashion,12000000.0,2,Kartu Kredit,2026-06-29,Prabumulih,
+TRX00329,Maya Gunarto,Nemo Lite,Buku,120000.0,2,Transfer Bank,2026-07-09,Bogor,5.0
+TRX00440,Artanto Kurniawan,Reiciendis Basic,Fashion,1200000.0,3,E-Wallet,2026-08-31,Banjarbaru,2.0
+TRX00127,Jumadi Firmansyah,Voluptatem Basic,Buku,250000.0,3,E-Wallet,2026-07-20,Mataram,4.0
+TRX00424,Makara Saragih,Deserunt Lite,Fashion,150000.0,2,E-Wallet,2026-07-02,Surakarta,5.0
+TRX00328,"Dr. Ganep Melani, S.E.I",Numquam Basic,Kesehatan,500000.0,1,E-Wallet,2026-06-20,Denpasar,1.0
+TRX00179,"R.M. Akarsana Haryanto, M.Ak",Voluptate Max,Buku,15000.0,1,COD,2026-09-01,Blitar,4.0
+TRX00444,Ade Firmansyah,Similique,Rumah Tangga,75000.0,3,Kartu Kredit,2026-09-04,Bontang,1.0
+TRX00381,Johan Nainggolan,Neque Max,Elektronik,250000.0,4,COD,2026-07-06,Manado,2.0
+TRX00224,Puji Mardhiyah,Dolores Pro,Olahraga,2500000.0,3,Kartu Kredit,2026-07-24,Palu,
+TRX00359,T. Luwar Kuswandari,Optio Basic,Kesehatan,250000.0,4,COD,2026-09-01,Kota Administrasi Jakarta Barat,
+TRX00094,Elvin Haryanti,Autem Max,Fashion,250000.0,5,COD,2026-09-01,Kota Administrasi Jakarta Timur,1.0
+TRX00070,Dr. Dadap Mulyani,Pariatur Basic,Elektronik,500000.0,5,Transfer Bank,2026-07-12,Bima,4.0
+TRX00037,Sarah Suryatmi,A Lite,Buku,2500000.0,2,Kartu Kredit,2026-08-02,Sukabumi,4.0
+TRX00161,Hasta Saputra,Nemo Basic,Kesehatan,120000.0,1,Kartu Kredit,2026-09-16,Padangpanjang,3.0
+TRX00012,Lili Gunarto,Velit Lite,Kesehatan,50000.0,2,Kartu Kredit,2026-06-26,Makassar,5.0
+TRX00145,Hartaka Manullang,Expedita Pro,Buku,120000.0,4,Transfer Bank,2026-07-26,Pariaman,3.0
+TRX00361,Elisa Permadi,Iste Lite,Elektronik,250000.0,5,E-Wallet,2026-08-09,Kota Administrasi Jakarta Timur,2.0
+TRX00128,"Harto Napitupulu, S.Ked",Illum Lite,Fashion,150000.0,3,COD,2026-08-25,Gorontalo,2.0
+TRX00448,Jarwadi Hutasoit,Quis Max,Rumah Tangga,15000.0,4,Transfer Bank,2026-07-19,Pagaralam,4.0
+TRX00010,Paramita Lailasari,Laboriosam Pro,Kesehatan,1200000.0,1,COD,2026-08-24,Sibolga,
+TRX00382,Hj. Siska Gunarto,Voluptate Lite,Olahraga,1200000.0,4,E-Wallet,2026-07-27,Lhokseumawe,
+TRX00177,Mala Utama,Consectetur Basic,Fashion,1200000.0,2,Transfer Bank,2026-08-31,Banjar,
+TRX00232,Balangga Uyainah,Corrupti Lite,Fashion,1200000.0,4,Kartu Kredit,2026-07-15,Pangkalpinang,5.0
+TRX00211,Atmaja Rahayu,Maiores Max,Olahraga,1200000.0,1,COD,2026-07-07,Tomohon,4.0
+TRX00129,Farah Saragih,Earum Lite,Kesehatan,5000000.0,4,E-Wallet,2026-07-10,Kota Administrasi Jakarta Selatan,1.0
+TRX00144,"R.M. Luluh Prakasa, S.Psi",Ipsum Lite,Olahraga,25000.0,4,E-Wallet,2026-07-31,Pekanbaru,
+TRX00242,Cinthia Permata,Odit Basic,Rumah Tangga,120000.0,1,E-Wallet,2026-08-07,Pekanbaru,5.0
+TRX00008,"Kasiran Aryani, S.Psi",Omnis,Rumah Tangga,50000.0,3,Kartu Kredit,2026-08-11,Mataram,
+TRX00299,R. Kawaca Thamrin,At Pro,Rumah Tangga,1200000.0,2,COD,2026-07-10,Pematangsiantar,
+TRX00255,Tgk. Mahesa Padmasari,Accusantium Max,Buku,250000.0,2,COD,2026-08-18,Batu,5.0
+TRX00378,Ir. Jasmin Nuraini,Consectetur,Rumah Tangga,5000000.0,1,E-Wallet,2026-07-05,Mataram,
+TRX00342,Ciaobella Tampubolon,Consequatur Pro,Elektronik,500000.0,3,Kartu Kredit,2026-08-23,Kota Administrasi Jakarta Timur,
+TRX00009,Hilda Najmudin,Voluptatem,Olahraga,2500000.0,3,Kartu Kredit,2026-08-29,Samarinda,
+TRX00157,Gading Siregar,Dicta Lite,Buku,25000.0,2,E-Wallet,2026-06-23,Bandung,4.0
+TRX00028,Bambang Laksita,Omnis Pro,Fashion,1200000.0,2,COD,2026-08-02,Bau-Bau,1.0
+TRX00267,"Hj. Karimah Siregar, M.Kom.",Qui Lite,Elektronik,500000.0,2,E-Wallet,2026-08-08,Kotamobagu,4.0
+TRX00065,R.A. Betania Saptono,Cupiditate Pro,Buku,250000.0,2,Kartu Kredit,2026-07-30,Purwokerto,4.0
+TRX00256,"Emil Ramadan, M.Ak",Consequuntur Lite,Elektronik,120000.0,3,E-Wallet,2026-08-11,Denpasar,2.0
+TRX00325,Zahra Suwarno,Cumque Basic,Olahraga,250000.0,2,E-Wallet,2026-07-13,Mataram,
+TRX00154,Azalea Sihombing,Eveniet Basic,Buku,250000.0,2,COD,2026-06-30,Serang,4.0
+TRX00049,Dr. Kala Laksmiwati,Corrupti Lite,Elektronik,25000.0,3,Transfer Bank,2026-09-07,Kota Administrasi Jakarta Barat,
+TRX00209,Luthfi Marpaung,Laborum Lite,Fashion,150000.0,3,Transfer Bank,2026-09-15,Bandar Lampung,
+TRX00288,Galih Uwais,Repellat Max,Buku,120000.0,2,E-Wallet,2026-08-24,Tangerang,5.0
+TRX00002,Cut Ophelia Prabowo,Amet Lite,Elektronik,25000.0,4,E-Wallet,2026-06-27,Batam,
+TRX00270,Farhunnisa Yolanda,Possimus Pro,Kesehatan,50000.0,2,E-Wallet,2026-08-30,Depok,2.0
+TRX00266,Anom Prabowo,Nesciunt Lite,Buku,500000.0,5,COD,2026-08-15,Bengkulu,1.0
+TRX00334,Hasan Kuswandari,Deleniti Max,Rumah Tangga,150000.0,1,COD,2026-09-06,Kota Administrasi Jakarta Barat,
+TRX00341,Raihan Rahimah,Tempore Basic,Fashion,250000.0,4,COD,2026-08-10,Tanjungpinang,
+TRX00096,T. Wawan Tarihoran,Delectus Basic,Rumah Tangga,120000.0,4,Kartu Kredit,2026-08-13,Binjai,
+TRX00473,Paris Pratama,Ipsa Basic,Fashion,250000.0,3,E-Wallet,2026-09-08,Jambi,
+TRX00117,Irwan Kusmawati,Repudiandae Pro,Olahraga,15000.0,3,Kartu Kredit,2026-08-03,Mojokerto,3.0
+TRX00046,"Lamar Maryati, S.Farm",Provident Max,Kesehatan,15000.0,3,Transfer Bank,2026-07-01,Pontianak,2.0
+TRX00162,Galang Purnawati,Magnam Basic,Rumah Tangga,1200000.0,1,E-Wallet,2026-07-27,Yogyakarta,1.0
+TRX00499,Ir. Julia Pradana,Sit Lite,Olahraga,250000.0,1,Kartu Kredit,2026-07-13,Tual,4.0
+TRX00118,"Drs. Zulaikha Hastuti, M.M.",Expedita Basic,Kesehatan,75000.0,4,COD,2026-08-29,Bukittinggi,1.0
+TRX00289,Cakrabuana Latupono,Magni Basic,Fashion,50000.0,5,E-Wallet,2026-09-13,Sorong,3.0
+TRX00078,Chelsea Kusmawati,Hic Pro,Fashion,15000.0,4,Kartu Kredit,2026-08-04,Kota Administrasi Jakarta Barat,
+TRX00402,Keisha Usamah,Repellendus,Buku,15000.0,2,COD,2026-07-08,Pekalongan,5.0
+TRX00064,Embuh Budiyanto,Tempora Pro,Olahraga,250000.0,2,E-Wallet,2026-06-27,Bau-Bau,3.0
+TRX00459,"Oliva Jailani, M.M.",Vitae Pro,Fashion,50000.0,5,COD,2026-07-25,Depok,4.0
+TRX00397,dr. Gandewa Waskita,Totam Lite,Elektronik,500000.0,4,Transfer Bank,2026-06-25,Pagaralam,5.0
+TRX00231,Eka Maulana,Incidunt Basic,Rumah Tangga,120000.0,1,Kartu Kredit,2026-08-24,Kota Administrasi Jakarta Utara,2.0
+TRX00298,Wira Rajasa,Repudiandae,Olahraga,25000.0,2,E-Wallet,2026-08-26,Palu,1.0
+TRX00187,Gatra Sitompul,Beatae Pro,Kesehatan,500000.0,3,E-Wallet,2026-07-29,Singkawang,4.0
+TRX00200,"drg. Nasrullah Nasyiah, S.Ked",Minus Basic,Rumah Tangga,750000.0,2,Transfer Bank,2026-09-03,Bau-Bau,2.0
+TRX00351,Lala Hasanah,Tempora Lite,Olahraga,500000.0,1,E-Wallet,2026-06-24,Bandung,1.0
+TRX00122,Eja Novitasari,Reprehenderit Lite,Elektronik,25000.0,5,E-Wallet,2026-07-07,Jayapura,
+TRX00479,"R. Teddy Pangestu, S.Farm",Tempora,Kesehatan,120000.0,2,Kartu Kredit,2026-08-10,Mataram,4.0
+TRX00443,"Himawan Irawan, S.Gz",Nulla Pro,Kesehatan,250000.0,3,Kartu Kredit,2026-08-02,Tebingtinggi,
+TRX00308,Tgk. Tedi Haryanti,Placeat,Olahraga,25000.0,4,E-Wallet,2026-09-13,Serang,
+TRX00472,Mustofa Hassanah,Mollitia Max,Rumah Tangga,25000.0,2,E-Wallet,2026-07-10,Mataram,
+TRX00159,Tgk. Citra Putra,Aliquid Basic,Buku,750000.0,5,Transfer Bank,2026-08-30,Batam,4.0
+TRX00086,Ir. Dipa Lestari,Fuga Pro,Fashion,12000000.0,2,E-Wallet,2026-06-20,Tidore Kepulauan,3.0
+TRX00226,dr. Putri Mangunsong,Odio,Elektronik,250000.0,5,Transfer Bank,2026-08-18,Cimahi,
+TRX00263,"Padmi Mandasari, S.Pd",Omnis,Elektronik,250000.0,2,Kartu Kredit,2026-07-23,Tangerang,4.0
+TRX00332,Farah Anggriawan,At Max,Elektronik,750000.0,3,Transfer Bank,2026-08-21,Tebingtinggi,
+TRX00411,"Ir. Muhammad Tampubolon, S.Farm",Alias Max,Buku,500000.0,3,Kartu Kredit,2026-08-18,Kota Administrasi Jakarta Barat,
+TRX00077,Teguh Saragih,Esse Lite,Elektronik,120000.0,2,Kartu Kredit,2026-07-22,Magelang,
+TRX00398,"dr. Puspa Prasasta, S.Sos",Eaque,Elektronik,120000.0,3,Kartu Kredit,2026-08-01,Kendari,2.0
+TRX00383,"Shakila Puspasari, S.Ked",Incidunt Pro,Elektronik,50000.0,1,Transfer Bank,2026-07-25,Semarang,
+TRX00088,"R. Slamet Saptono, S.H.",Enim Lite,Rumah Tangga,15000.0,2,E-Wallet,2026-07-10,Payakumbuh,2.0
+TRX00183,Sutan Galuh Wahyudin,Amet Basic,Elektronik,2500000.0,2,COD,2026-07-07,Cilegon,1.0
+TRX00106,R. Syahrini Suwarno,Placeat Pro,Buku,250000.0,2,COD,2026-06-24,Cimahi,3.0
+TRX00409,Edward Mahendra,Natus Max,Fashion,75000.0,2,E-Wallet,2026-07-15,Pangkalpinang,
+TRX00050,Enteng Gunarto,Consequuntur,Buku,120000.0,5,COD,2026-08-04,Tual,3.0
+TRX00390,Ihsan Oktaviani,Molestiae Lite,Buku,25000.0,3,Transfer Bank,2026-06-21,Mojokerto,1.0
+TRX00006,Putri Zulaika,Ducimus,Rumah Tangga,250000.0,4,COD,2026-06-29,Medan,
+TRX00018,Ikin Wacana,Quo,Fashion,25000.0,3,E-Wallet,2026-07-15,Palangkaraya,3.0
+TRX00235,Umaya Astuti,Voluptates Basic,Buku,15000.0,3,E-Wallet,2026-08-10,Kediri,5.0
+TRX00413,"Gawati Wastuti, S.Gz",Necessitatibus Basic,Rumah Tangga,150000.0,3,COD,2026-06-23,Palangkaraya,4.0
+TRX00407,Prayoga Pradipta,Iste,Fashion,1200000.0,4,COD,2026-07-06,Batam,
+TRX00107,Lidya Siregar,Id Pro,Olahraga,750000.0,1,COD,2026-07-16,Padang,2.0
+TRX00135,"Olga Waluyo, S.I.Kom",Iure Pro,Elektronik,75000.0,2,Kartu Kredit,2026-07-29,Ambon,3.0
+TRX00414,Praba Sihombing,Dolor,Fashion,25000.0,2,E-Wallet,2026-07-24,Purwokerto,2.0
+TRX00227,Maida Rajasa,Repellendus Max,Buku,500000.0,5,Transfer Bank,2026-07-10,Pangkalpinang,5.0
+TRX00215,Intan Hardiansyah,Maxime Max,Fashion,15000.0,2,E-Wallet,2026-09-09,Kotamobagu,4.0
+TRX00191,Ade Purnawati,Libero Pro,Fashion,12000000.0,1,E-Wallet,2026-07-17,Prabumulih,1.0
+TRX00453,"Labuh Wahyudin, M.Pd",Repellendus Basic,Rumah Tangga,75000.0,1,COD,2026-09-12,Pontianak,5.0
+TRX00321,Puspa Maulana,Nulla Pro,Buku,500000.0,2,COD,2026-09-06,Padangpanjang,3.0
+TRX00283,Tedi Maheswara,Delectus Pro,Rumah Tangga,500000.0,5,Transfer Bank,2026-08-01,Tebingtinggi,4.0
+TRX00030,Danang Nuraini,Magni Lite,Kesehatan,750000.0,5,Kartu Kredit,2026-07-03,Tual,
+TRX00170,Karya Pratama,Animi Lite,Kesehatan,500000.0,3,E-Wallet,2026-07-25,Meulaboh,
+TRX00181,"dr. Rahmi Ramadan, S.E.",Iste Max,Rumah Tangga,75000.0,3,Kartu Kredit,2026-09-08,Palu,3.0
+TRX00101,Bella Wijaya,Molestias,Buku,250000.0,3,COD,2026-09-17,Mataram,2.0
+TRX00198,Drs. Sakura Napitupulu,Dicta Basic,Kesehatan,150000.0,3,Kartu Kredit,2026-07-27,Singkawang,
+TRX00210,Cahyo Yuniar,Tempora,Buku,1200000.0,1,COD,2026-06-23,Ternate,
+TRX00136,Estiono Hutapea,Laudantium Pro,Kesehatan,15000.0,4,Kartu Kredit,2026-07-27,Sabang,
+TRX00484,"Hj. Mutia Waskita, M.M.",Nam Lite,Kesehatan,15000.0,4,Transfer Bank,2026-08-10,Cimahi,4.0
+TRX00441,Jumari Anggraini,Praesentium Max,Olahraga,15000.0,2,COD,2026-08-24,Sibolga,
+TRX00199,Kacung Saragih,At Pro,Kesehatan,50000.0,5,Kartu Kredit,2026-07-17,Tebingtinggi,5.0
+TRX00374,"T. Kawaya Safitri, S.Farm",Quas Basic,Rumah Tangga,25000.0,1,Transfer Bank,2026-09-02,Meulaboh,
+TRX00167,R.M. Wahyu Hidayat,Corrupti Max,Olahraga,120000.0,1,Kartu Kredit,2026-07-24,Langsa,2.0
+TRX00395,Ayu Prasasta,Commodi,Elektronik,500000.0,2,COD,2026-07-05,Metro,
+TRX00137,"Sutan Harjasa Tamba, S.Pd",Non Basic,Fashion,750000.0,1,Transfer Bank,2026-06-27,Dumai,
+TRX00286,"Ami Anggriawan, S.Gz",Accusantium Max,Fashion,150000.0,2,Kartu Kredit,2026-09-07,Meulaboh,2.0
+TRX00336,Cut Kani Nurdiyanti,Occaecati Max,Rumah Tangga,250000.0,5,COD,2026-09-15,Bitung,
+TRX00132,Ajiono Riyanti,Dicta Lite,Buku,50000.0,4,E-Wallet,2026-07-27,Denpasar,4.0
+TRX00040,Uli Hutasoit,Dolore,Olahraga,120000.0,5,E-Wallet,2026-07-05,Bandar Lampung,3.0
+TRX00216,Cut Winda Zulkarnain,Aliquam Basic,Fashion,500000.0,1,COD,2026-07-29,Malang,4.0
+TRX00044,Dwi Prabowo,Illum,Rumah Tangga,120000.0,5,E-Wallet,2026-08-04,Kota Administrasi Jakarta Selatan,3.0
+TRX00055,Danuja Winarsih,Incidunt Lite,Kesehatan,50000.0,1,E-Wallet,2026-08-29,Tasikmalaya,5.0
+TRX00488,Hamima Palastri,Adipisci,Fashion,250000.0,2,Kartu Kredit,2026-08-27,Kendari,4.0
+TRX00300,Natalia Mayasari,Repudiandae,Rumah Tangga,50000.0,3,Transfer Bank,2026-07-08,Depok,3.0
+TRX00468,Bagya Rajata,Ea Lite,Buku,12000000.0,5,E-Wallet,2026-07-03,Tangerang Selatan,3.0
+TRX00305,Rini Purnawati,Error Basic,Buku,250000.0,2,Kartu Kredit,2026-07-13,Pagaralam,4.0
+TRX00036,Darmaji Jailani,Eum Basic,Rumah Tangga,250000.0,1,Transfer Bank,2026-08-01,Gorontalo,1.0
+TRX00316,Kezia Narpati,Nulla,Kesehatan,5000000.0,2,COD,2026-07-11,Tangerang,3.0
+TRX00400,"Diah Iswahyudi, S.Kom",Fugit Lite,Buku,75000.0,1,COD,2026-08-08,Sabang,5.0
+TRX00310,Yahya Winarsih,Quae Pro,Fashion,250000.0,5,E-Wallet,2026-07-25,Cilegon,
+TRX00277,Gading Mandala,Ipsa Basic,Rumah Tangga,50000.0,3,COD,2026-08-09,Langsa,3.0
+TRX00125,Tiara Yulianti,Inventore Pro,Fashion,50000.0,4,COD,2026-06-24,Payakumbuh,2.0
+TRX00143,Wisnu Mandasari,Ducimus Pro,Elektronik,50000.0,1,Transfer Bank,2026-06-20,Tanjungbalai,3.0
+TRX00111,Cayadi Siregar,Quos Lite,Elektronik,500000.0,2,Transfer Bank,2026-06-28,Medan,4.0
+TRX00324,Kambali Hakim,Suscipit,Buku,500000.0,3,COD,2026-09-08,Sabang,
+TRX00333,Karja Situmorang,Iusto Max,Fashion,15000.0,4,COD,2026-07-15,Bekasi,4.0
+TRX00394,"Harsaya Wulandari, M.Farm",Est Max,Elektronik,1200000.0,1,Kartu Kredit,2026-07-27,Tasikmalaya,5.0
+TRX00474,Reza Tarihoran,Omnis,Fashion,25000.0,5,Kartu Kredit,2026-07-19,Meulaboh,1.0
+TRX00108,"Digdaya Sihombing, M.Kom.",Quos Pro,Rumah Tangga,1200000.0,1,Kartu Kredit,2026-08-19,Cimahi,5.0
+TRX00456,Dacin Nuraini,Velit Lite,Elektronik,500000.0,5,Transfer Bank,2026-07-12,Kediri,2.0
+TRX00013,"Kamaria Riyanti, M.Kom.",Repellendus Max,Fashion,5000000.0,5,Kartu Kredit,2026-08-30,Bekasi,4.0
+TRX00273,Cici Ardianto,Aperiam,Rumah Tangga,250000.0,5,E-Wallet,2026-07-07,Sibolga,
+TRX00048,Jasmani Safitri,Cumque,Kesehatan,750000.0,2,E-Wallet,2026-08-09,Tangerang Selatan,1.0
+TRX00204,"Wisnu Pratama, S.Pt",Quae Pro,Kesehatan,1200000.0,1,Transfer Bank,2026-06-21,Kendari,1.0
+TRX00478,Ir. Paris Padmasari,Deserunt Lite,Kesehatan,250000.0,3,Transfer Bank,2026-09-17,Sabang,
+TRX00120,KH. Arta Adriansyah,Debitis Pro,Elektronik,50000.0,3,Transfer Bank,2026-07-10,Sukabumi,
+TRX00022,dr. Dian Mulyani,Sit Max,Olahraga,2500000.0,2,COD,2026-08-17,Palu,
+TRX00403,Darsirah Hartati,Veniam Lite,Kesehatan,250000.0,1,E-Wallet,2026-07-01,Serang,4.0
+TRX00084,Hj. Talia Yuniar,Eum Lite,Rumah Tangga,5000000.0,1,Kartu Kredit,2026-06-27,Bogor,1.0
+TRX00131,Salwa Hakim,Saepe,Kesehatan,500000.0,2,Kartu Kredit,2026-07-03,Banjarbaru,
+TRX00457,drg. Darmanto Namaga,Rem Pro,Elektronik,1200000.0,1,E-Wallet,2026-08-21,Padang Sidempuan,5.0
+TRX00494,Saka Agustina,Aperiam Pro,Buku,500000.0,1,E-Wallet,2026-06-27,Payakumbuh,
+TRX00330,"R. Putri Pradana, S.E.",Eius Max,Olahraga,25000.0,2,Transfer Bank,2026-08-13,Sibolga,1.0
+TRX00230,Fitriani Rajata,Corporis,Rumah Tangga,75000.0,4,Transfer Bank,2026-07-04,Dumai,1.0
+TRX00287,Ira Rahimah,Doloremque Lite,Buku,1200000.0,4,E-Wallet,2026-09-14,Sibolga,2.0
+TRX00124,"Salman Prasasta, M.Kom.",Qui Basic,Fashion,120000.0,5,COD,2026-07-11,Bandar Lampung,3.0
+TRX00034,drg. Garda Dabukke,Aliquam Basic,Olahraga,15000.0,1,E-Wallet,2026-08-30,Kota Administrasi Jakarta Selatan,5.0
+TRX00486,Lamar Hutapea,Reprehenderit Pro,Kesehatan,250000.0,4,COD,2026-07-06,Pangkalpinang,2.0
+TRX00005,Kalim Mansur,Illum,Olahraga,75000.0,3,Transfer Bank,2026-07-27,Samarinda,4.0
+TRX00412,"drg. Kamila Utami, S.IP",Ducimus Basic,Rumah Tangga,5000000.0,5,E-Wallet,2026-07-16,Sibolga,3.0
+TRX00020,Cecep Maryadi,Eveniet Max,Elektronik,500000.0,1,COD,2026-08-18,Pasuruan,5.0
+TRX00220,dr. Yance Mulyani,Facilis Pro,Rumah Tangga,250000.0,5,Transfer Bank,2026-08-11,Kotamobagu,3.0
+TRX00380,Yuni Melani,Nihil Basic,Buku,500000.0,3,Kartu Kredit,2026-08-15,Pekanbaru,1.0
+TRX00420,Gantar Anggraini,Numquam,Fashion,12000000.0,1,E-Wallet,2026-09-11,Pekanbaru,3.0
+TRX00357,Oman Irawan,Quisquam Pro,Elektronik,15000.0,1,COD,2026-07-15,Singkawang,
+TRX00150,Unjani Rajata,Eius Lite,Rumah Tangga,2500000.0,5,E-Wallet,2026-07-29,Kota Administrasi Jakarta Barat,
+TRX00225,Kasiran Riyanti,Voluptas Basic,Fashion,120000.0,2,COD,2026-08-26,Malang,5.0
+TRX00248,Catur Mustofa,Atque Lite,Rumah Tangga,120000.0,5,Kartu Kredit,2026-08-31,Parepare,3.0
+TRX00454,Karya Farida,Nam Lite,Fashion,1200000.0,4,Transfer Bank,2026-07-13,Denpasar,
+TRX00152,Hesti Mayasari,Qui Basic,Buku,25000.0,4,E-Wallet,2026-07-10,Sungai Penuh,5.0
+TRX00493,Jane Dongoran,Totam Pro,Kesehatan,1200000.0,2,COD,2026-08-02,Cirebon,4.0
+TRX00318,dr. Ulva Mandala,Occaecati Basic,Rumah Tangga,50000.0,4,Transfer Bank,2026-09-14,Banda Aceh,3.0
+TRX00292,"Amalia Maryadi, M.Ak",Ipsa Basic,Elektronik,2500000.0,5,Kartu Kredit,2026-08-11,Metro,
+TRX00234,Caket Rajasa,Sed,Kesehatan,500000.0,5,E-Wallet,2026-08-25,Ternate,2.0
+TRX00011,Banara Mulyani,Nihil Basic,Kesehatan,500000.0,3,COD,2026-07-04,Bukittinggi,1.0
+TRX00280,Aditya Zulaika,Molestias Basic,Buku,150000.0,5,E-Wallet,2026-08-12,Parepare,4.0
+TRX00072,Shakila Pratama,Eum Max,Kesehatan,120000.0,4,Kartu Kredit,2026-07-20,Padang,2.0
+TRX00253,Maria Oktaviani,Tempore Max,Rumah Tangga,15000.0,1,Kartu Kredit,2026-06-27,Bukittinggi,5.0
+TRX00093,Nadia Lazuardi,Quo Pro,Buku,500000.0,2,Kartu Kredit,2026-07-07,Parepare,1.0
+TRX00492,Paulin Yuniar,Accusantium Pro,Kesehatan,50000.0,2,Kartu Kredit,2026-08-16,Jambi,2.0
+TRX00350,Mala Pangestu,Quae,Rumah Tangga,25000.0,1,Transfer Bank,2026-08-19,Bogor,4.0
+TRX00416,Tina Nurdiyanti,Facere,Fashion,50000.0,4,E-Wallet,2026-09-11,Ambon,5.0
+TRX00375,Kani Gunarto,Saepe Lite,Olahraga,1200000.0,1,COD,2026-08-19,Balikpapan,
+TRX00401,Nadia Permadi,Dolore,Elektronik,120000.0,5,E-Wallet,2026-07-23,Tebingtinggi,
+TRX00193,Dr. Endah Mansur,Accusantium Pro,Buku,15000.0,1,Transfer Bank,2026-09-12,Tarakan,5.0
+TRX00258,"Rachel Iswahyudi, M.Pd",Tempora Pro,Buku,500000.0,1,Transfer Bank,2026-09-03,Payakumbuh,1.0
+TRX00495,drg. Hamima Hariyah,Accusantium Basic,Buku,75000.0,5,Kartu Kredit,2026-06-22,Salatiga,4.0
+TRX00340,Puti Dabukke,Ad Max,Buku,50000.0,2,Transfer Bank,2026-06-28,Kota Administrasi Jakarta Selatan,4.0
+TRX00196,H. Jumadi Prayoga,Doloremque Max,Kesehatan,1200000.0,1,Transfer Bank,2026-09-09,Banjarmasin,3.0
+TRX00344,Banawi Waskita,Deserunt Basic,Buku,120000.0,3,E-Wallet,2026-08-07,Kediri,
+TRX00138,Puput Hassanah,Earum Max,Buku,15000.0,3,COD,2026-07-19,Bandar Lampung,2.0
+TRX00261,Dt. Jayadi Hastuti,Dicta Pro,Elektronik,50000.0,5,Kartu Kredit,2026-08-22,Payakumbuh,1.0
+TRX00039,Ibrahim Usada,Iusto Pro,Buku,2500000.0,1,Kartu Kredit,2026-06-27,Pangkalpinang,3.0
+TRX00463,"R.A. Padmi Latupono, S.I.Kom",Dolores Pro,Buku,75000.0,1,COD,2026-07-23,Tual,2.0
+TRX00202,"Aris Maheswara, S.Psi",Voluptate Lite,Rumah Tangga,1200000.0,5,E-Wallet,2026-09-12,Tasikmalaya,2.0
+TRX00481,Oni Usada,Exercitationem Max,Kesehatan,500000.0,2,COD,2026-07-21,Magelang,
+TRX00291,Almira Oktaviani,Totam Lite,Kesehatan,12000000.0,4,E-Wallet,2026-08-22,Sibolga,4.0
+TRX00449,Ir. Sakti Mangunsong,Natus Basic,Elektronik,250000.0,3,Transfer Bank,2026-09-14,Banjarmasin,4.0
+TRX00190,Tgk. Umar Hardiansyah,Delectus Lite,Fashion,15000.0,4,Transfer Bank,2026-08-02,Banda Aceh,2.0
+TRX00252,"H. Raharja Setiawan, S.I.Kom",Exercitationem Max,Olahraga,120000.0,5,Kartu Kredit,2026-08-17,Pariaman,5.0
+TRX00113,Uli Novitasari,Eos,Fashion,500000.0,3,E-Wallet,2026-07-23,Tomohon,4.0
+TRX00438,"H. Radika Saragih, M.Ak",Itaque Pro,Kesehatan,15000.0,5,COD,2026-07-24,Lubuklinggau,
+TRX00184,"Waluyo Setiawan, S.Psi",Minus Pro,Rumah Tangga,500000.0,5,COD,2026-07-05,Binjai,
+TRX00153,Ani Jailani,Ab,Fashion,500000.0,2,Transfer Bank,2026-08-01,Palopo,2.0
+TRX00313,"Dr. Nyana Yuliarti, M.Kom.",Aspernatur Max,Elektronik,750000.0,3,Kartu Kredit,2026-06-29,Tomohon,1.0
+TRX00326,Hana Permadi,Ex Basic,Rumah Tangga,12000000.0,4,Transfer Bank,2026-06-28,Padangpanjang,3.0
+TRX00192,Hendri Padmasari,Incidunt Max,Buku,500000.0,1,Kartu Kredit,2026-08-12,Mataram,3.0
+TRX00045,dr. Rafid Mustofa,Assumenda Pro,Fashion,750000.0,3,E-Wallet,2026-09-09,Palu,2.0
+TRX00445,Belinda Wijayanti,Aspernatur,Elektronik,1200000.0,2,E-Wallet,2026-08-05,Makassar,3.0
+TRX00276,"R.M. Baktianto Wijayanti, S.E.",Amet Pro,Buku,120000.0,1,E-Wallet,2026-07-27,Sungai Penuh,3.0
+TRX00007,Kuncara Haryanto,Recusandae Lite,Elektronik,120000.0,5,Kartu Kredit,2026-06-25,Payakumbuh,1.0
+TRX00251,"Sutan Emas Waluyo, S.T.",Nobis Max,Kesehatan,75000.0,3,Transfer Bank,2026-08-20,Ambon,4.0
+TRX00312,Unggul Puspasari,Aliquam Lite,Olahraga,25000.0,3,COD,2026-09-03,Kota Administrasi Jakarta Selatan,1.0
+TRX00076,Ade Saptono,Maiores Basic,Kesehatan,250000.0,1,COD,2026-09-14,Kota Administrasi Jakarta Barat,
+TRX00001,Eka Widodo,Totam Max,Fashion,500000.0,1,Transfer Bank,2026-06-24,Mataram,5.0
+TRX00429,Amalia Tarihoran,Placeat,Kesehatan,25000.0,3,Transfer Bank,2026-07-08,Kota Administrasi Jakarta Utara,3.0
+TRX00392,Wadi Rahmawati,Doloribus Lite,Olahraga,120000.0,1,COD,2026-07-18,Langsa,3.0
+TRX00384,Mulyono Dabukke,Eius Lite,Rumah Tangga,75000.0,3,E-Wallet,2026-07-05,Sukabumi,2.0
+TRX00433,"Tina Sitompul, M.Farm",Fuga,Rumah Tangga,120000.0,2,Transfer Bank,2026-06-29,Palangkaraya,1.0
+TRX00069,Wani Budiyanto,Explicabo Pro,Elektronik,120000.0,2,Kartu Kredit,2026-06-23,Tegal,3.0
+TRX00487,Vicky Aryani,Atque Basic,Buku,75000.0,5,Transfer Bank,2026-09-03,Cirebon,2.0
+TRX00168,Raihan Gunawan,Perspiciatis Basic,Rumah Tangga,75000.0,2,E-Wallet,2026-07-18,Bekasi,2.0
+TRX00393,Rahmi Ramadan,Possimus Pro,Fashion,250000.0,3,E-Wallet,2026-09-16,Kota Administrasi Jakarta Barat,1.0
+TRX00219,Nurul Kuswoyo,Porro Lite,Elektronik,500000.0,3,Transfer Bank,2026-08-21,Payakumbuh,2.0
+TRX00043,"Baktiono Novitasari, S.E.I",Nostrum Pro,Kesehatan,25000.0,5,COD,2026-09-16,Jambi,3.0
+TRX00367,"Puti Agnes Zulkarnain, M.Pd",Reprehenderit Lite,Kesehatan,1200000.0,3,COD,2026-06-30,Samarinda,
+TRX00346,"Harsaya Andriani, M.Ak",Sed Max,Buku,1200000.0,2,COD,2026-08-06,Banjarbaru,4.0
+TRX00073,Anastasia Mustofa,Accusantium Lite,Elektronik,75000.0,5,E-Wallet,2026-06-26,Palangkaraya,
+TRX00024,"Himawan Halim, S.Kom",Atque Max,Rumah Tangga,1200000.0,2,COD,2026-09-16,Cilegon,2.0
+TRX00399,Ami Setiawan,Vel,Olahraga,75000.0,1,Transfer Bank,2026-06-22,Kendari,5.0
+TRX00186,Ir. Sabri Wijaya,Minima Pro,Fashion,15000.0,4,E-Wallet,2026-07-13,Samarinda,1.0
+TRX00349,"drg. Salimah Usamah, S.Ked",Maiores Basic,Kesehatan,15000.0,5,Transfer Bank,2026-06-29,Batam,2.0
+TRX00104,Fitriani Wahyudin,Nobis Pro,Rumah Tangga,750000.0,4,COD,2026-09-07,Purwokerto,5.0
+TRX00408,Tgk. Reksa Mardhiyah,In,Fashion,5000000.0,4,Transfer Bank,2026-07-07,Bekasi,
+TRX00212,"Kiandra Kurniawan, S.H.",Enim Basic,Fashion,1200000.0,2,Transfer Bank,2026-07-08,Bandung,
+TRX00068,Paris Putra,Illum Pro,Rumah Tangga,500000.0,5,Kartu Kredit,2026-07-30,Kota Administrasi Jakarta Timur,3.0
+TRX00197,Dt. Halim Nashiruddin,Ex,Rumah Tangga,75000.0,4,Kartu Kredit,2026-07-04,Balikpapan,
+TRX00176,Dr. Zalindra Nugroho,Pariatur Pro,Olahraga,25000.0,3,E-Wallet,2026-07-26,Blitar,4.0
